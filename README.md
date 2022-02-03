@@ -61,7 +61,7 @@ Netlify has made this easy. If you click the deploy button below, it will guide 
 ![Netlify variable setup](docs/sendulse_function_setup.gif?raw=true)
 
 3. ### Configure the Custom Element 
-    After your function is setup, you'll need to create and configure your Sendpulse custom element. The process of adding a custom element into your project is descripbed in [Kontent's official documentation](https://docs.kontent.ai/tutorials/develop-apps/integrate/content-editing-extensions#a-displaying-your-custom-editor-in-kentico-kontent). 
+    After your function is setup, you'll need to create and configure your Sendpulse custom element. The process of adding a custom element into your project is descripbed in [Kontent's official documentation](https://kontent.ai/learn/tutorials/develop-apps/integrate/content-editing-extensions#a-displaying-your-custom-editor-in-kontent). 
 
     The custom element has to be also configured. The neccessary configuration values are as follows:
 
@@ -119,9 +119,9 @@ We have collected notes on how to contribute to this project in [CONTRIBUTING.md
 ## Additional Resources
 
 - [Custom Element Gallery on github](https://kentico.github.io/kontent-custom-element-samples/gallery/)
-- [Kontent's Integration documentation](https://docs.kontent.ai/tutorials/develop-apps/integrate/integrations-overview)
-- [Custom Element documentation](https://docs.kontent.ai/tutorials/develop-apps/integrate/content-editing-extensions)
-- [Custom Element API reference](https://docs.kontent.ai/reference/custom-elements-js-api)
+- [Kontent's Integration documentation](https://kontent.ai/learn/tutorials/develop-apps/integrate/integrations-overview)
+- [Custom Element documentation](https://kontent.ai/learn/tutorials/develop-apps/integrate/content-editing-extensions)
+- [Custom Element API reference](https://kontent.ai/learn/reference/custom-elements-js-api)
 
 
 [last-commit]: https://img.shields.io/github/last-commit/Kentico/kontent-custom-element-sendpulse?style=for-the-badge
